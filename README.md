@@ -1,0 +1,1 @@
+# shortify-git-revision
